@@ -1,0 +1,104 @@
+1|2023-05-23 22:47:15|asq@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Login Exitoso
+1|2023-05-23 22:48:59|asq@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Login Exitoso
+1|2023-05-23 22:55:39|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Login Exitoso
+1|2023-05-23 23:08:48|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Login Exitoso
+1|2023-05-23 23:13:20|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Login Exitoso
+0|2023-05-23 23:13:59|asdasd@asd.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Usuario no encontrado
+0|2023-05-23 23:14:24|asdas@asdas.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Usuario no encontrado
+0|2023-05-23 23:15:45|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Contraseña inválida
+0|2023-05-23 23:16:51|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Captcha inválido
+0|2023-05-23 23:18:33|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Contraseña inválida
+1|2023-05-23 23:19:35|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Login Exitoso
+0|2023-05-23 23:19:42|asdasd@fgasd.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Captcha inválido
+1|2023-05-23 23:20:48|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Login Exitoso
+0|2023-05-23 23:21:04|carlos@gmai.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Usuario no encontrado
+0|2023-05-23 23:21:10|asda@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Captcha inválido
+1|2023-05-24 14:40:49|slackm_@hotmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+0|2023-05-24 14:41:07|sarak@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Captcha inválido
+0|2023-05-24 14:41:14|alegna@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Captcha inválido
+1|2023-05-24 14:42:53|slackm_@hotmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-24 17:09:45|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-24 17:16:34|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+0|2023-05-24 17:18:29|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Contraseña inválida
+0|2023-05-24 17:18:36|sarak@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Captcha inválido
+0|2023-05-24 17:21:08|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Captcha inválido
+0|2023-05-24 17:21:17|sarak@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Captcha inválido
+0|2023-05-24 19:43:49|sarak@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Captcha inválido
+0|2023-05-24 19:43:59|sarak@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Usuario no encontrado
+0|2023-05-24 19:45:09|sarak@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Usuario no encontrado
+1|2023-05-24 19:45:34|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 16:14:45|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 16:16:02|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 16:21:34|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 16:26:46|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 16:28:38|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50|Windows 10|Login Exitoso
+0|2023-05-25 16:30:51|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Captcha inválido
+1|2023-05-25 16:31:12|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 16:36:27|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 16:40:08|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 16:45:56|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 16:54:16|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 17:14:20|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 17:14:43|usuario@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 17:17:14|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 17:18:08|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 17:20:34|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+0|2023-05-25 17:21:46|carlos@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Contraseña inválida
+0|2023-05-25 17:26:15|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Captcha inválido
+1|2023-05-25 17:27:28|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 17:28:47|usuario@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 17:30:09|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+0|2023-05-25 17:32:02|carlos@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Contraseña inválida
+1|2023-05-25 17:42:39|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 17:44:06|usuario@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+0|2023-05-25 17:47:29|carlos@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Contraseña inválida
+0|2023-05-25 17:50:35|carlos@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Captcha inválido
+0|2023-05-25 17:52:34|carlos@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Contraseña inválida
+1|2023-05-25 17:55:07|luis@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 18:00:33|luis@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 18:05:33|luis@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 18:17:14|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 18:22:24|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 18:25:14|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 18:25:57|luis@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 18:55:27|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 18:58:49|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:01:45|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:22:39|luis@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:23:55|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:24:48|edgar@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:25:37|edgar@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:31:22|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:33:12|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:35:41|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:42:06|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:42:58|luis@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:44:54|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:49:25|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:50:01|luis@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:51:33|luis@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:54:47|usuario@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 19:55:56|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 20:39:05|luis@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 20:40:55|usuario@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 20:41:53|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 20:46:26|edgar@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 21:08:15|lala@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 21:14:50|lala@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 21:40:22|lala@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-25 21:41:29|lala@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-27 20:52:24|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-27 20:52:40|usuario@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-27 20:54:44|usuario@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-27 20:55:30|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-27 21:31:05|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-27 21:31:33|usuario@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-27 21:32:04|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-27 21:39:04|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+0|2023-05-27 21:39:29|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Contraseña inválida
+0|2023-05-27 21:39:54|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Contraseña inválida
+1|2023-05-29 14:39:15|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-29 14:42:30|lala@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-29 14:43:25|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+0|2023-05-29 18:49:57|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Contraseña inválida
+1|2023-05-29 18:50:07|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
